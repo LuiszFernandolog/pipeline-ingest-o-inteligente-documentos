@@ -1,4 +1,10 @@
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
 .env
+venv/
+.venv/
+
 app/uploads/*
+!app/uploads/.gitkeep
